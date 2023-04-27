@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "check_access_token",
+    "pageId": "list ads",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "list ads_check_access_token",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_6426ab1fdc009637d664ea83"
+}

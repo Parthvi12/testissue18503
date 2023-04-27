@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "init_channels_list",
+    "pageId": "add event",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "add event_init_channels_list",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_63ff3040b956c26882aca20a"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "delete_video_js",
+    "pageId": "list videos",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "list videos_delete_video_js",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_6414714b71d5213f118d2f4b"
+}

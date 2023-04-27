@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "id": "add event",
+      "isDefault": false
+    },
+    {
+      "id": "list events",
+      "isDefault": true
+    },
+    {
+      "id": "login",
+      "isDefault": false
+    },
+    {
+      "id": "edit event",
+      "isDefault": false
+    },
+    {
+      "id": "recover password",
+      "isDefault": false
+    },
+    {
+      "id": "list videos",
+      "isDefault": false
+    },
+    {
+      "id": "list ads",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#C7F3E3",
+  "icon": "moon",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "toGeoJSON_https://cdnjs.cloudflare.com/ajax/libs/togeojson/0.16.0/togeojson.js"
+    },
+    {
+      "uidString": "CryptoJS_https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"
+    },
+    {
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    },
+    {
+      "uidString": "gpxparser_https://cdn.jsdelivr.net/gh/zahraChab/JS-Libraries/gpxparser.min.js"
+    },
+    {
+      "uidString": "QRCode_https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": false
+  },
+  "forkingEnabled": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

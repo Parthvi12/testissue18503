@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "delete_ad_js",
+    "pageId": "list ads",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "list ads_delete_ad_js",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_6426ab1fdc009637d664ea85"
+}

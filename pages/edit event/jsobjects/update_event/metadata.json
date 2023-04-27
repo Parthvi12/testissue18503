@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "update_event",
+    "pageId": "edit event",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "edit event_update_event",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_63f8f12402d27175e02b6446"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "crud_channels",
+    "pageId": "add event",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "add event_crud_channels",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_63ff2428e69a2e1df547ecb5"
+}

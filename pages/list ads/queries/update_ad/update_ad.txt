@@ -1,0 +1,1 @@
+{{ {"banner_link": edit_banner_link.text} }}

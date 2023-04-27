@@ -1,0 +1,1 @@
+{{ {banner_image: this.params.image,"event_id": appsmith.URL.queryParams.event_id, banner_link: banner_link.text } }}

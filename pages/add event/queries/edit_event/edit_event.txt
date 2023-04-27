@@ -1,0 +1,3 @@
+{{ {"name": add_event_form.data.event_name, "location": add_event_form.data.event_location, 
+	"max_hours": add_event_form.data.max_hours, "imperial": add_event_form.data.imperial,
+	"start_time": add_event_form.data.start_time, "signed_up_users": add_event_form.data.signed_up_users,"hidden": add_event_form.data.hidden, ...this.params, banner_link: add_event_form.data.banner_link, youtube_video_embed_url: add_event_form.data.video_link, audio_commentary: add_event_form.data.audio_commentary, audio_live_stream_url: add_event_form.data.audio_live_stream_url} }}

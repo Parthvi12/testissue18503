@@ -1,0 +1,13 @@
+{
+  "name": "toGeoJSON",
+  "uidString": "toGeoJSON_https://cdnjs.cloudflare.com/ajax/libs/togeojson/0.16.0/togeojson.js",
+  "accessor": [
+    "toGeoJSON"
+  ],
+  "url": "https://cdnjs.cloudflare.com/ajax/libs/togeojson/0.16.0/togeojson.js",
+  "version": "",
+  "defs": "{\"!name\":\"LIB/toGeoJSON\",\"toGeoJSON\":{\"kml\":{\"!type\":\"fn()\",\"prototype\":{}},\"gpx\":{\"!type\":\"fn()\",\"prototype\":{}}}}",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}

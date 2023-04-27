@@ -1,0 +1,1 @@
+{{ {"url": edit_url.text, "description": edit_description.text, "title": edit_title.text , "order": edit_order.text, "hidden": !edit_visible.value} }}

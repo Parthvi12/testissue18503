@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "delete_event_js",
+    "pageId": "list events",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "list events_delete_event_js",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_63fc962c990f7d4baf444161"
+}

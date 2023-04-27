@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "retrieve_access_token_from_url",
+    "pageId": "recover password",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "recover password_retrieve_access_token_from_url",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_63fb64cf02d27175e02b76ac"
+}

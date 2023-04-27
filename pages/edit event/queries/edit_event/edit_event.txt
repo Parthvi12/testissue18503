@@ -1,0 +1,3 @@
+{{ {"name": edit_event_form.data.event_name, "location": edit_event_form.data.event_location, 
+	"max_hours": edit_event_form.data.max_hours, "imperial": edit_event_form.data.imperial,
+	"start_time": edit_event_form.data.start_time, "signed_up_users": edit_event_form.data.signed_up_users,"banner_image": this.params.banner_image, "logo": this.params.logo} }}

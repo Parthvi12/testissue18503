@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "check_access_token",
+    "pageId": "list videos",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "list videos_check_access_token",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_6414382d128e99063d826b15"
+}

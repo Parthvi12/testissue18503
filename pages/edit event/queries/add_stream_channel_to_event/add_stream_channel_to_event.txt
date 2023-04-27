@@ -1,0 +1,1 @@
+{{ {"event_id": this.params.event_id, "stream_channel_id": this.params.stream_channel_id, "stream_name": this.params.stream_name, "order": this.params.order,"playback_url": this.params.playback_url, "thumbnail": this.params.thumbnail} }}

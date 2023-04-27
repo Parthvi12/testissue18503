@@ -1,0 +1,1 @@
+{{ {"url": url.text, "description": description.text, "title": title.text , "order": order.text, "event_id": appsmith.URL.queryParams.event_id, "hidden": !visible.value } }}

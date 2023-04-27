@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "check_access_token",
+    "pageId": "list events",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "list events_check_access_token",
+  "deleted": false,
+  "gitSyncId": "63f672f9d1a4ef5575594702_63fbb75102d27175e02b78c0"
+}
